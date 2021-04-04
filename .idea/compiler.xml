@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cloud-alibaba-config-nacos-client-3377" />
+        <module name="cloud-alibaba-consumer-order-9003" />
+        <module name="cloud-alibaba-provider-payment-9001" />
+        <module name="cloud-alibaba-provider-payment-9002" />
+        <module name="cloud-alibaba-sentinel-provider-9301" />
+        <module name="cloud-common" />
+        <module name="cloud-consumer-feign-hystrix-order-8083" />
+        <module name="cloud-consumer-feign-order-8082" />
+        <module name="cloud-consumer-hystrix-dashboard-9001" />
+        <module name="cloud-consumer-order-8080" />
+        <module name="cloud-consumerzk-order-8081" />
+        <module name="cloud-eureka-server-7001" />
+        <module name="cloud-eureka-server-7002" />
+        <module name="cloud-gateway-9527" />
+        <module name="cloud-provider-hystrix-payment-8006" />
+        <module name="cloud-provider-payment-8001" />
+        <module name="cloud-provider-payment-8002" />
+        <module name="cloud-providerzk-payment-8004" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
